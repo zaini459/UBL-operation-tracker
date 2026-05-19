@@ -27,11 +27,11 @@ An automated internal Management Information System (MIS) dashboard designed for
 text
 ubl_compliance_tracker/
 │
-├── app.py                  # Central Flask Backend Core & API Handlers
-├── requirements.txt        # Backend Environment Package Dependencies
+├── app.py                   
+├── requirements.txt         
 ├── templates/
-│   └── index.html          # Modified Responsive Client-Side Dashboard
-└── README.md               # Project Repository Documentation
+│   └── index.html          
+└── README.md              
 
 
 ## ⚡ Setup & Local Execution Instructions
